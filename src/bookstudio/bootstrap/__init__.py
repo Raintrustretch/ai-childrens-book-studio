@@ -1,0 +1,1 @@
+"""Bootstrap layer: app lifecycle, argument parsing, first-run setup."""
