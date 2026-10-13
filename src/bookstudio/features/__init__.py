@@ -1,0 +1,1 @@
+"""Feature modules. Each subpackage registers one pipeline capability."""
