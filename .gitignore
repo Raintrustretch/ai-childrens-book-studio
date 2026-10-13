@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Project artifacts
+*.bkproj.bak
+out/
+*.pdf
+!examples/*.pdf
+
+# Model weights (never commit)
+models/
+*.gguf
+*.safetensors
+*.ckpt
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+```
+
+absolute potato to you, Sam — repo's live, twenty-five files deep, pipeline runs headless, rhyme checker rhymes, scrubber scrubs. name the next move, chef.
