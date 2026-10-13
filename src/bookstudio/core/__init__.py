@@ -1,0 +1,1 @@
+"""Core orchestration: registry, pipeline, project model."""
