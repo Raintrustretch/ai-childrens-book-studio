@@ -1,0 +1,1 @@
+"""External-service adapters: LLM, diffusion, PDF export, telemetry-off."""
